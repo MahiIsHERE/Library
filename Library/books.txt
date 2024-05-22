@@ -1,0 +1,5 @@
+1,computer,Computer,true
+2,Math,Math,false
+3,Physics,Physics,false
+4,Electricity,Electricity,true
+5,Chemistry,General,false
